@@ -1,0 +1,7 @@
+{
+  "name": "Zen Digital Bracelet",
+  "description": "A meditative interactive artwork. Use your hand to interact with a bracelet made of digital letters. Pinch to rotate and meditate; open your hand to scatter the thoughts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
